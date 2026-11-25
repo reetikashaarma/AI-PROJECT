@@ -1,0 +1,25 @@
+Order ID,Order Date,Product Name,Category,Sales,Quantity,Profit,Region
+A-1001,2024-01-05,Desk Chair,Furniture,250,2,45,East
+A-1002,2024-01-18,Notebook,Office Supplies,35,5,12,West
+A-1003,2024-02-04,Monitor,Technology,420,1,80,East
+A-1004,2024-02-21,Desk Chair,Furniture,125,1,18,South
+A-1005,2024-03-03,Notebook,Office Supplies,70,10,24,West
+A-1006,2024-03-15,Keyboard,Technology,95,2,20,North
+A-1007,2024-04-02,Monitor,Technology,840,2,160,East
+A-1008,2024-04-19,Notebook,Office Supplies,42,6,14,South
+A-1009,2024-05-07,Desk Chair,Furniture,375,3,68,North
+A-1010,2024-05-20,Keyboard,Technology,190,4,42,West
+A-1011,2024-06-09,Monitor,Technology,420,1,82,East
+A-1012,2024-06-23,Notebook,Office Supplies,56,8,19,South
+A-1013,2024-07-04,Desk Chair,Furniture,500,4,90,North
+A-1014,2024-07-17,Keyboard,Technology,142,3,30,West
+A-1015,2024-08-11,Monitor,Technology,1260,3,240,East
+A-1016,2024-08-28,Notebook,Office Supplies,84,12,29,South
+A-1017,2024-09-06,Desk Chair,Furniture,250,2,45,North
+A-1018,2024-09-19,Keyboard,Technology,237,5,51,West
+A-1019,2024-10-02,Monitor,Technology,840,2,160,East
+A-1020,2024-10-22,Notebook,Office Supplies,63,9,22,South
+A-1021,2024-11-08,Desk Chair,Furniture,625,5,112,North
+A-1022,2024-11-24,Keyboard,Technology,190,4,42,West
+A-1023,2024-12-05,Monitor,Technology,1680,4,320,East
+A-1024,2024-12-18,Notebook,Office Supplies,98,14,34,South
